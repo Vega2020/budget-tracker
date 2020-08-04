@@ -11,7 +11,7 @@ Table of Contents:
 [Tests](Tests)  
 [Questions](Questions)  
         
-![Screenshot of Budget Tracker in action](public\readmeScreenshot.png "Screenshot of Budget Tracker in use")
+![Screenshot of Budget Tracker in action](./public/readmeScreenshot.png "Screenshot of Budget Tracker in use")
 
 
 ## Overview:
