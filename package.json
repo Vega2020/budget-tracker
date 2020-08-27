@@ -27,5 +27,8 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
     "nes.css": "^2.3.0"
+  },
+  "devDependencies": {
+    "css-loader": "^4.2.2"
   }
 }
